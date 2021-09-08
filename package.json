@@ -159,7 +159,7 @@
 		"jasmine": "3.9.0",
 		"jest": "27.0.6",
 		"jest-puppeteer": "5.0.4",
-		"js-base64": "3.6.1",
+		"js-base64": "3.7.0",
 		"js-beautify": "1.14.0",
 		"keymaster": "1.6.2",
 		"marked": "2.1.3",
